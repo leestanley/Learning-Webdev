@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px"
+	 height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="Palette" display="none">
+	<rect x="-7442" y="-363" display="inline" fill="#FFFFFF" width="9201" height="7668"/>
+</g>
+<g id="Others">
+	<g id="files">
+	</g>
+	<g id="pencil_rocket">
+	</g>
+	<g id="magic_hat__x26__rabbit">
+	</g>
+	<g id="phone__x26__target">
+	</g>
+	<g id="toast">
+	</g>
+	<g id="coffee">
+	</g>
+	<g id="suit">
+	</g>
+	<g id="DNA_tube">
+	</g>
+	<g id="clapper">
+	</g>
+	<g id="stopwatch">
+	</g>
+	<g id="map__x26__locator">
+	</g>
+	<g id="envelope">
+	</g>
+	<g id="phone__x26__megaphone">
+	</g>
+	<g id="speech_bubble">
+	</g>
+	<g id="medal">
+		<radialGradient id="SVGID_1_" cx="256" cy="266.5747" r="250.7684" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0051" style="stop-color:#1ECA6B"/>
+			<stop  offset="0.9949" style="stop-color:#19A658"/>
+		</radialGradient>
+		<path fill="url(#SVGID_1_)" d="M512,256c0,141.385-114.615,256-256,256S0,397.385,0,256C0,153.991,59.664,65.918,145.998,24.773
+			C179.323,8.891,219.29,56,258.668,56c38.984,0,73.268-47.286,106.341-31.698C451.879,65.244,512,153.601,512,256z"/>
+		<path fill="#F4C342" d="M351,238.509c0,10.765-8.727,19.491-19.491,19.491H177.491C166.727,258,158,249.273,158,238.509v-27.018
+			c0-10.765,8.727-19.491,19.491-19.491h154.018c10.765,0,19.491,8.727,19.491,19.491V238.509z M343,211.694
+			c0-6.458-5.236-11.694-11.694-11.694H178.694c-6.458,0-11.694,5.236-11.694,11.694v26.611c0,6.458,5.236,11.694,11.694,11.694
+			h152.611c6.458,0,11.694-5.236,11.694-11.694V211.694z"/>
+		<path fill="#F89B36" d="M178.813,192c-1.614,0-3.813-0.1-5.813,0.27v8.208c2-0.626,4.146-0.477,5.813-0.477h153.594
+			c1.972,0,3.593-0.009,4.593,0.853v-8.371c-1-0.505-2.699-0.481-4.593-0.481H178.813z"/>
+		<rect x="258" y="249" fill="#F89B36" width="9" height="9"/>
+		<rect x="242" y="249" fill="#F89B36" width="9" height="9"/>
+		<path fill="#F4C342" d="M254.502,285.261c-2.154,0-3.502-1.746-3.502-3.898v-35.085c0-2.153,1.348-3.898,3.502-3.898
+			c2.152,0,3.498,1.745,3.498,3.898v35.085C258,283.515,256.654,285.261,254.502,285.261z"/>
+		<path fill="#F89B36" d="M255.281,263.631c-1.568,0-3.281,0.041-4.281,0.104v17.627c0,2.152,1.348,3.898,3.502,3.898
+			c2.152,0,3.498-1.746,3.498-3.898v-17.686C258,263.648,256.324,263.631,255.281,263.631z"/>
+		<circle fill="#F4C342" cx="256" cy="378.821" r="110.513"/>
+		<path fill="#F89B36" d="M256,281.173c-53.931,0-97.65,43.718-97.65,97.648c0,53.929,43.72,97.648,97.65,97.648
+			c53.926,0,97.649-43.719,97.649-97.648C353.649,324.891,309.926,281.173,256,281.173z M256,461.693
+			c-45.77,0-82.871-37.104-82.871-82.872c0-45.77,37.102-82.874,82.871-82.874c45.769,0,82.875,37.104,82.875,82.874
+			C338.875,424.59,301.769,461.693,256,461.693z"/>
+		<path fill="#F89B36" d="M251.574,323.875c2.434-4.932,6.418-4.932,8.852,0l10.679,21.639c2.435,4.932,8.878,9.614,14.321,10.405
+			l23.881,3.47c5.443,0.791,6.674,4.579,2.736,8.418l-17.281,16.844c-3.938,3.839-6.399,11.415-5.469,16.836l4.077,23.783
+			c0.93,5.421-2.292,7.762-7.161,5.203l-21.357-11.229c-4.869-2.559-12.835-2.559-17.703,0l-21.358,11.229
+			c-4.868,2.559-8.091,0.218-7.161-5.203l4.08-23.783c0.928-5.421-1.533-12.997-5.471-16.836l-17.281-16.844
+			c-3.938-3.839-2.707-7.627,2.736-8.418l23.879-3.47c5.443-0.791,11.889-5.473,14.322-10.405L251.574,323.875z"/>
+		<path fill="#EC7C2D" d="M205.296,373.011l21.276-3.091c5.443-0.791,11.889-5.473,14.322-10.405l10.68-21.639
+			c2.434-4.932,6.418-4.932,8.852,0l10.679,21.639c2.435,4.932,8.878,9.614,14.321,10.405l21.277,3.092l5.34-5.204
+			c3.938-3.839,2.707-7.627-2.736-8.418l-23.881-3.47c-5.443-0.791-11.887-5.473-14.321-10.405l-10.679-21.639
+			c-2.434-4.932-6.418-4.932-8.852,0l-10.68,21.639c-2.434,4.932-8.879,9.614-14.322,10.405l-23.879,3.47
+			c-5.443,0.791-6.674,4.579-2.736,8.418L205.296,373.011z"/>
+		<path fill="#EC7C2D" d="M221.832,406.591l-3.203,18.679c-0.469,2.731,0.119,4.678,1.438,5.613l2.643-15.396
+			C223.168,412.811,222.797,409.609,221.832,406.591z"/>
+		<path fill="#EC7C2D" d="M290.168,406.592c-0.965,3.018-1.334,6.219-0.875,8.896l2.639,15.396c1.32-0.935,1.906-2.881,1.438-5.613
+			L290.168,406.592z"/>
+		<path fill="#32495D" d="M200,221.686V221V6.161c-18.871,4.211-36.955,10.5-54,18.623v151.104L200,221.686z"/>
+		<path fill="#EE483C" d="M311,221v0.686l54-45.797V24.317c-17.054-8.038-35.137-14.244-54-18.374V221z"/>
+		<path fill="#ECF0F1" d="M200,6.161V221h56V0C236.762,0,218.025,2.138,200,6.161z"/>
+		<path fill="#BDC3C7" d="M256,0v221h55V5.943C293.281,2.063,274.883,0,256,0z"/>
+	</g>
+</g>
+<g id="Design">
+	<g id="blueprint">
+	</g>
+	<g id="computer__x26__pencil__x26__ruker">
+	</g>
+	<g id="pencil__x26__ruler__x26__eraser">
+	</g>
+	<g id="paint_brush">
+	</g>
+	<g id="eraser">
+	</g>
+	<g id="round_brush">
+	</g>
+	<g id="scissor">
+	</g>
+	<g id="wacom">
+	</g>
+	<g id="vector">
+	</g>
+	<g id="lightbulb">
+	</g>
+	<g id="lamp">
+	</g>
+	<g id="pencil__x26__brush">
+	</g>
+	<g id="laptop__x26__brush">
+	</g>
+	<g id="paint">
+	</g>
+	<g id="magic_wand">
+	</g>
+</g>
+<g id="SEO_x2F__Web">
+	<g id="W_key">
+	</g>
+	<g id="link_plus">
+	</g>
+	<g id="website__x26__lock">
+	</g>
+	<g id="video">
+	</g>
+	<g id="maginifier__x26__target">
+	</g>
+	<g id="website__x26__setting_1_">
+	</g>
+	<g id="website__x26__code">
+	</g>
+	<g id="SEO_tag">
+	</g>
+	<g id="website__x26__wrench">
+	</g>
+	<g id="crown">
+	</g>
+	<g id="eye">
+	</g>
+	<g id="website__x26__clock">
+	</g>
+	<g id="spider">
+	</g>
+	<g id="website__x26__medal">
+	</g>
+	<g id="graph">
+	</g>
+</g>
+<g id="Finance__x2F__Money">
+	<g id="diamond">
+	</g>
+	<g id="calculating">
+	</g>
+	<g id="calculator">
+	</g>
+	<g id="auction_hammer">
+	</g>
+	<g id="bag_of_money">
+	</g>
+	<g id="piggy_bank">
+	</g>
+	<g id="bank">
+	</g>
+	<g id="umbrella__x26__coins">
+	</g>
+	<g id="safe">
+	</g>
+	<g id="treasure">
+	</g>
+	<g id="cash__x26__card">
+	</g>
+	<g id="coins__x26__cash">
+	</g>
+	<g id="coins__x26__card">
+	</g>
+	<g id="briefcase">
+	</g>
+	<g id="cash">
+	</g>
+</g>
+<g id="E-Commerce__x2F__Shopping">
+	<g id="New_Symbol">
+	</g>
+	<g id="mobile__x26__finger">
+	</g>
+	<g id="price_tag">
+	</g>
+	<g id="website__x26__magnifier">
+	</g>
+	<g id="hand_to_ahnd_delivery">
+	</g>
+	<g id="hand__x26__credit_card">
+	</g>
+	<g id="hand__x26__iPad">
+	</g>
+	<g id="empty_basket">
+	</g>
+	<g id="full_basket">
+	</g>
+	<g id="trolley">
+	</g>
+	<g id="wallet">
+	</g>
+	<g id="truck">
+	</g>
+	<g id="delivery">
+	</g>
+	<g id="gift">
+	</g>
+	<g id="hand__x26__shopping_bag">
+	</g>
+	<g id="iMac_with_products">
+	</g>
+	<g id="laptop_store">
+	</g>
+	<g id="shopping_bag_with_mouse">
+	</g>
+	<g id="mobile_store">
+	</g>
+	<g id="store">
+	</g>
+	<g id="laptop_with_money">
+	</g>
+</g>
+<g id="Strategy">
+	<g id="money_palnt">
+	</g>
+	<g id="contract">
+	</g>
+	<g id="trophy">
+	</g>
+	<g id="graph_paper">
+	</g>
+	<g id="competition">
+	</g>
+	<g id="checklist">
+	</g>
+	<g id="megaphone">
+	</g>
+	<g id="paper_airplane">
+	</g>
+	<g id="mission_1">
+	</g>
+	<g id="graph_board">
+	</g>
+	<g id="mission_2">
+	</g>
+	<g id="strategy">
+	</g>
+	<g id="target">
+	</g>
+	<g id="partnership">
+	</g>
+	<g id="chess">
+	</g>
+</g>
+</svg>
