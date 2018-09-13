@@ -1,5 +1,5 @@
 # Learning Front-end 
-Personal scratch work for learning html/css/bootstrap/sass/electron
+Personal scratch/course work for learning front-end dev
 
 **Currently Learning:**
 
