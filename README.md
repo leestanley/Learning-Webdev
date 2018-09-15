@@ -21,3 +21,4 @@ Personal scratch/course work for learning front-end dev
 * https://codepen.io/
 * https://css-tricks.com/
 * https://www.awwwards.com/
+* https://www.theodinproject.com/home
