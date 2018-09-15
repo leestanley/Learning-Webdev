@@ -23,6 +23,6 @@ Personal scratch/course work for learning front-end dev
 * https://www.awwwards.com/
 * https://www.theodinproject.com/home
 
-**Start: **Sept 9th 2018 
+**Start:** Sept 9th 2018 
 
-**Goal: **Build a landing page by Oct 1st
+**Goal:** Build a landing page by Oct 1st
