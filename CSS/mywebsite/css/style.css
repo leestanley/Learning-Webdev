@@ -11,6 +11,7 @@ body{
 	width:80%;
 	margin:auto;
 	overflow:hidden;
+    height: 40vh;
 }
 
 #main-header{
