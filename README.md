@@ -1,16 +1,21 @@
 # Learning Front-end 
 Personal scratch/course work for learning front-end dev
 
+**Done Learning:**
+* HTML5
+* CSS3: Sass
+* Illustrator CC 
+
 **Currently Learning:**
 
 * HTML5
-* CSS3: Sass, Flexboxes + Grids
-* Illustrator CC 
+* CSS3: Bootstrap, Flexboxes + Grids
+* JS: ReactJS
 
 **To do:**
 
-* CSS3: Bootstrap
-* JS: React/Angular, Node.js, Jquery
+* CSS3: 
+* JS: Node.js, Jquery
 * Electron
 
 **Current Resources:**
