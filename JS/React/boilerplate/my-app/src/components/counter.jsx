@@ -6,11 +6,23 @@ class Counter extends Component {
     count: 0
   };
 
+  handleIncrement = () => {
+    this.setState({count: this.state.count + 1})
+  }
+
+  handleDecrement = () => {
+    if (this.state.count !== 0) {
+      console.log('decremented')
+      this.setState({count: this.state.count - 1})
+    }
+  }
+
   render() {
     return (
       <div className = "app">
         <span className={this.getBadgeClasses()}>{this.formatCount()}</span>
-        <button className = "btn btn-secondary btn-sm">Increment</button>
+        <button onClick={this.handleIncrement} className = "btn m-2 btn-secondary btn-sm">Increment</button>
+        <button onClick={this.handleDecrement} className = "btn m-2 btn-secondary btn-sm">Decrement</button>
       </div>
     );
   }
