@@ -1,31 +1,13 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Counters from "./components/counters"
 
-
-class Counter extends Component {
-  state = {
-    count: 0
+export default class App extends Component {
+  render() {
+     return (
+      <div className="App">
+        <Counters />
+      </div>
+    );
   }
-};
-
-render() {
-   return (
-    <div className="App">
-      <span className={this.getBagdeClasses()}>{this.formatCount()}</span>
-    </div>
-  );
-}
-
-
-  // getBagdeClasses() {
-  //   let classes = "badge m-2 badge-";
-  //   classes += this.state.count === 0 ? "warning" : "primary";
-  //   return classes;
-  // }
-
-  // formatCount() {
-  //   const { count } = this.state;
-  //   return count === 0 ? 'Zero': count;
-  // };
 }
