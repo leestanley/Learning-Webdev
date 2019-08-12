@@ -1,0 +1,28 @@
+ul {
+    height: 250px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px dotted red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap-reverse; */
+    align-items: center;
+}
+
+li {
+    border: 1px solid black;
+}
+
+.one {
+    order: 1;
+    flex: 1 1 5em;
+    border: 3px dotted red;
+}
+
+.two {
+    order: 2;
+    flex: 2s 2 5em;
+    border: 3px dotted blue;
+}
