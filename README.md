@@ -3,20 +3,19 @@ Personal scratch/course work for learning front-end dev
 
 **Done Learning:**
 * HTML5
-* CSS3: Sass
+* CSS3: Sass, Less, Flexbox, Grid, Bootstrap
+* JS: Node.js, React.js
 * Illustrator CC 
 
 **Currently Learning:**
 
-* HTML5
-* CSS3: Bootstrap, Flexboxes + Grids
-* JS: ReactJS
+* CSS3: WintailCSS
+* JS: Formik.js, Redux.js
 
 **To do:**
 
-* CSS3: 
-* JS: Node.js, Jquery
-* Electron
+* JS: Gatsby.js
+
 
 **Current Resources:**
 
@@ -27,7 +26,9 @@ Personal scratch/course work for learning front-end dev
 * https://css-tricks.com/
 * https://www.awwwards.com/
 * https://www.theodinproject.com/home
+* https://www.youtube.com/watch?v=NCwa_xi0Uuc 
+* https://www.youtube.com/watch?v=NCwa_xi0Uuc
 
 **Start:** Sept 9th 2018 
 
-**Goal:** Build a landing page by Oct 1st
+**Goal:** ~~Build a landing page by Oct 1st~~ __DONE__ 
