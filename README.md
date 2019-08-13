@@ -1,4 +1,6 @@
-# Learning Front-end 
+
+
+# 💻 Learning Front-end 
 Personal scratch/course work for learning front-end dev
 
 **Done Learning:**
@@ -32,3 +34,7 @@ Personal scratch/course work for learning front-end dev
 **Start:** Sept 9th 2018 
 
 **Goal:** ~~Build a landing page by Oct 1st~~ __DONE__ 
+
+<div align='center'>
+  <img height="150px" width="auto" src="https://cod34fun.com/content/images/2018/06/1000px-React-icon.svg-1.png">
+</div>
