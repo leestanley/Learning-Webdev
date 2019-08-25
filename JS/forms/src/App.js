@@ -1,11 +1,11 @@
 import React from 'react';
-import Forms from './components/Forms.jsx'
+import { withFormik } from 'formik'
+import Yup from 'yup'
 import './App.css'
 
 function App() {
   return (
     <div className="App">
-      <Forms />
       <h1>Cat</h1>
     </div>
   );
