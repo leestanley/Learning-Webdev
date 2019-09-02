@@ -21,6 +21,8 @@ Personal scratch/course work for learning front-end dev
 
 **Current Resources:**
 
+* https://courses.edx.org/course_modes/choose/course-v1:HarvardX+CS50+X/
+* https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
 * https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
 * https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 * https://www.youtube.com/channel/UCeR7U67I2J1icV8E6Rn40vQ
