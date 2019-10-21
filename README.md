@@ -7,7 +7,7 @@ Personal scratch/course work for learning front-end dev
 * HTML5
 * CSS3: Sass, Less, Flexbox, Grid, Bootstrap
 * JS: Node.js, React.js, Formik.js, Redux.js
-* Illustrator CC 
+* Illustrator CC, After Effects CC, Premiere CC
 
 **Currently Learning:**
 
