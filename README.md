@@ -38,6 +38,5 @@ Personal scratch/course work for learning front-end dev
 **Goal:** ~~Build a landing page by Oct 1st~~ __DONE__ 
 
 <div align='center'>
-  <img height="150px" width="auto" src="https://cod34fun.com/content/images/2018/06/1000px-React-icon.svg-1.png">
   <img height="150px" width="auto" src="https://ui-ex.com/images/css-transparent-html-2.png">
 </div>
