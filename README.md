@@ -6,17 +6,17 @@ Personal scratch/course work for learning front-end dev
 **Done Learning:**
 * HTML5
 * CSS3: Sass, Less, Flexbox, Grid, Bootstrap
-* JS: Node.js, React.js
+* JS: Node.js, React.js, Formik.js, Redux.js
 * Illustrator CC 
 
 **Currently Learning:**
 
 * CSS3: WintailCSS
-* JS: Formik.js, Redux.js
+* JS: Next.js, Gatsby.js
 
 **To do:**
 
-* JS: Gatsby.js
+* JS: D3.js, Three.js
 
 
 **Current Resources:**
