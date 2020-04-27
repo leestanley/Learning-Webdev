@@ -5,6 +5,14 @@
 }
 */
 
+h1 {
+	color: black;
+}
+
+.first {
+	font-size: 30px;
+}
+
 body{
 	background-color:#f4f4f4;
 	color:#555555;
